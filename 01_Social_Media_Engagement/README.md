@@ -1,5 +1,8 @@
 **📱 Social Media Post Engagement Analysis**
 
+![Screenshots/](https://github.com/urvashi-source/Power-BI-Projects/blob/main/01_Social_Media_Engagement/Social%20media%20post%20engagement%20power%20bi%20snapshot.PNG)
+
+
 **📌 Project Overview**
 * This project focuses on analyzing user interaction across major social media platforms (Instagram, Facebook, and Twitter). The goal was to build a centralized dashboard that identifies which content formats and platforms drive the highest audience engagement to help inform data-driven marketing strategies.
 
@@ -18,4 +21,4 @@
 
 **📂 Project Structure**
 * **Social_Media_Engagement.pbix:** The primary Power BI project file.
-* **Screenshots/:** Visual previews of the dashboard.![Screenshots/](https://github.com/urvashi-source/Power-BI-Projects/blob/main/01_Social_Media_Engagement/Social%20media%20post%20engagement%20power%20bi%20snapshot.PNG)
+* **Screenshots/:** Visual previews of the dashboard.
