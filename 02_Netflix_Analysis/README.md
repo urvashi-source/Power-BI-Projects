@@ -1,4 +1,5 @@
-**🎬 Netflix Global Content Analysis** ![Screenshots](https://github.com/urvashi-source/Power-BI-Projects/blob/main/02_Netflix_Analysis/Netflix%20dashboard.PNG)
+**🎬 Netflix Global Content Analysis** 
+![Screenshots](https://github.com/urvashi-source/Power-BI-Projects/blob/main/02_Netflix_Analysis/Netflix%20dashboard.PNG)
 
 **📌 Project Overview**
 * This project is a comprehensive analysis of the Netflix library, exploring the balance between movies and TV shows, global distribution, and content growth over time. The dashboard was designed with a high-fidelity "Netflix-style" UI/UX to provide an immersive data storytelling experience.
