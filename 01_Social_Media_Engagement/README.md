@@ -1,7 +1,7 @@
 **📱 Social Media Post Engagement Analysis**
 
 **📌 Project Overview**
-This project focuses on analyzing user interaction across major social media platforms (Instagram, Facebook, and Twitter). The goal was to build a centralized dashboard that identifies which content formats and platforms drive the highest audience engagement to help inform data-driven marketing strategies.
+* This project focuses on analyzing user interaction across major social media platforms (Instagram, Facebook, and Twitter). The goal was to build a centralized dashboard that identifies which content formats and platforms drive the highest audience engagement to help inform data-driven marketing strategies.
 
 **📊 Key Insights & Findings**
 * **Platform Dominance:** Instagram emerged as the most active platform, accounting for the highest volume of posts.
