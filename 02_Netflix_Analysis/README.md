@@ -1,4 +1,5 @@
 **🎬 Netflix Global Content Analysis** 
+
 ![Screenshots](https://github.com/urvashi-source/Power-BI-Projects/blob/main/02_Netflix_Analysis/Netflix%20dashboard.PNG)
 
 **📌 Project Overview**
